@@ -7,7 +7,6 @@
   <img align="center" alt="Reach-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Reach-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Reach-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Reach-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1088795087204520086/1088802164471775292/oxA2BDpU_400x400.jpg">
 </div>
   
   ##
