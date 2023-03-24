@@ -1,13 +1,5 @@
 ## Olá, me chamo Filipe Gomes e busco um conhecimento na área de programação!
 
-<div style="display: flex">
-</br>
-  <p>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisreach&layout=compact&langs_count=16&theme=nord"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thisreach&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  </p>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
@@ -25,5 +17,13 @@
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/@reachfoda5698/videos)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/reachzn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/zQdsAbAVwd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  
+                                                            
+</div>
+   
+<div style="display: flex">
+</br>
+  <p>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisreach&layout=compact&langs_count=16&theme=nord"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thisreach&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  </p>
 </div>
