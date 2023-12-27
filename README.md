@@ -1,4 +1,4 @@
-## Olá, me chamo Andre e busco um conhecimento na área de programação!
+## Olá, me chamo Filipe Gomes e busco um conhecimento na área de programação!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
