@@ -23,7 +23,7 @@
 <div style="display: flex">
 </br>
   <p>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisreach&layout=compact&langs_count=16&theme=nord"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thisreach&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachFODA&layout=compact&langs_count=16&theme=nord"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=reachFODA&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   </p>
 </div>
